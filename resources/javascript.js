@@ -173,17 +173,17 @@
           if (/O/.test(square.innerHTML)) {
             O++;
           }
+        }
+        
+        // if X or O get three in a row, they win 
+        if (X == 3) {
+          winner = 'X';
+          break;
+        }
 
-          // if X or O get three in a row, they win 
-          if (X == 3) {
-            winner = 'X';
-            break;
-          }
-
-          if (O == 3) {
-            winner = 'O';
-            break;
-          }
+        if (O == 3) {
+          winner = 'O';
+          break;
         }
       }
 
