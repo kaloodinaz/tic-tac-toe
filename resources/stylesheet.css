@@ -37,6 +37,7 @@ button {
   max-width:1000px;
   margin:30px auto;
   position:relative;
+  min-height:500px;
 }
 
 .menu-title {
@@ -201,6 +202,13 @@ button {
   border-right:3px solid #666;
 }
 
+
+/* ADS */
+.ad-container {
+  text-align:center;
+  margin-top:80px;
+  margin-bottom:20px;
+}
 
 /* RESPONSIVENESS */
 @media (max-width:1000px) {
