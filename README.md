@@ -1,8 +1,8 @@
 # Tic-Tac-Toe
 This is a simple game of Tic-Tac-Toe built with HTML, CSS, and JavaScript. This version contains two modes; Single Player and Two player, so you can battle it out with a computer or one of your friends. You can play the game online or offline, so choose whichever version you prefer.
 
-- **Online Version :** https://sethclydesdale.github.io/tic-tac-toe/
-- **Offline Version :** [download](https://github.com/SethClydesdale/tic-tac-toe/archive/master.zip)
+- **Online Version :** https://kaloodinaz.github.io/tic-tac-toe/
+- **Offline Version :** [download](https://github.com/kaloodinaz/tic-tac-toe/archive/master.zip)
 
 Have fun!
 
